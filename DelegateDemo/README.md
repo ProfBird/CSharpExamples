@@ -1,1 +1,1 @@
-Note: This app is just one app in the class demo repository. To get the source code for this app you will need to clone or download the whole repository.
+Note: This folder, which is a Visual Studio Solution, is just one folder within a bigger repository. To get this source code, you will need to clone or download the whole repository.
